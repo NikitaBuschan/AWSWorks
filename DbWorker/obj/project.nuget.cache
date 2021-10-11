@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "glTU+j1SBkAK/6/6WK3+oZpm/S5yRIyM47T4WFFAVy8KBHIenqnU9lEhw4pT4J77MajPjojmUCTxPukUaRsa2A==",
+  "success": true,
+  "projectFilePath": "E:\\Poolz\\AWSWorks\\DbWorker\\DbWorker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikita\\.nuget\\packages\\amazon.lambda.core\\2.0.0\\amazon.lambda.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
